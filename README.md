@@ -4,6 +4,6 @@
 
 ## Description  
 This project implements a reversing radar system using an 8051 microcontroller. Features include:  
-- Distance measurement using a sensor.  
+- Distance measurement using an ultrasonic sensor.  
 - Audible warning with a buzzer.  
 - Display of remaining distance on an LCD screen.  
