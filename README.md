@@ -59,6 +59,9 @@ The main goal of this project is to design and implement a prototype of a proxim
 - The buzzer functions as intended, but its sound output is relatively low. A more powerful buzzer is recommended for noisy environments.
 - The current implementation works for short distances (~20 cm). For larger distances (up to 2 meters), a more advanced sensor is advised.
 
+Check the video of the system via the link:
+https://youtu.be/PofF9yYSIIc
+
 ---
 
 ## Future Enhancements
